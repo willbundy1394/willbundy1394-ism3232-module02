@@ -1,0 +1,6 @@
+pwd
+ls -la
+mkdir week2_practice
+cp notes.txt notes_backup.txt
+python3 hello_week2.py
+tree -L 2

@@ -1,0 +1,28 @@
+# ISM3232 - Module 2: zsh Navigation and File Operations
+
+## Commands Practiced
+
+| Command | What it does |
+|--------|--------------|
+| pwd | Prints the current working directory |
+| ls | Lists visible files and folders |
+| ls -la | Lists all files including hidden files |
+| cd .. | Moves up one directory level |
+| cd ~ | Returns to the home directory |
+| cd ~/ism3232 | Moves to the course folder |
+| tree -L 2 | Shows a directory tree up to two levels deep |
+| touch notes.txt | Creates a new file |
+| touch commands.txt | Creates a new file |
+| touch hello_week2.py | Creates a new file |
+| echo 'Week 2 navigation practice' > notes.txt | Writes text into a file |
+| cat notes.txt | Displays file contents |
+| head -1 notes.txt | Shows the first line of the file |
+| cp notes.txt notes_backup.txt | Copies a file |
+| mv hello_week2.py week2_script.py | Renames a file |
+| python3 week2_script.py | Runs the Python script |
+| rm notes_backup.txt | Deletes the backup file |
+| code . | Opens the current folder in VS Code |
+| code week2_script.py | Opens a file in VS Code |
+
+## AI Use Statement
+I did not use AI for this lab.
